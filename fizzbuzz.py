@@ -23,4 +23,5 @@ for i in range(1, n + 1, 1):
         print(f"[{i}] Fizz")
     else:
         print(f"[{i}] {i}")
-
+        
+#this is Fizz buzz
