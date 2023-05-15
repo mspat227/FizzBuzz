@@ -27,3 +27,5 @@ for i in range(1, n + 1, 1):
 #this is Fizz buzz
 #i have used this file as a demo to practise git commands 
 #then i will commit this changes as well
+#this is a new commit again for learning
+ 
