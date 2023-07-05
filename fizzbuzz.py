@@ -24,6 +24,5 @@ for i in range(1, n + 1, 1):
     else:
         print(f"[{i}] {i}")
         
-#this is Fizz buzz
-#i have used this file as a demo to practise git commands 
-#then i will commit this changes as well
+#this is Fizz buzz to use as a interview problem set as junior level
+
